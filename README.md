@@ -1,16 +1,16 @@
 <h1 align="center">Haiya, I'm Nattawat Samsee<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=black&size=32&center=true&vCenter=true&width=600&height=100&lines=Nattawat+Samsee,;Full-Stack+Developer,;Information+Technology+Student,;Self-Learning+new+stack,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=black&size=32&center=true&vCenter=true&width=600&height=100&lines=Nattawat+Samsee,;Full-Stack+Developer;Information+Technology+Student;Self-Learning;"></a>
 </p>
 
 <br>
 
 ## About me
 
-:man_student: 4th year of information technology at KMITL
-:book: Currently Self-Learning about Web Development
-:office_worker: I'm open a new job oppotunity.
+:man_student: 4th year of information technology at KMITL. <br>
+:book: Currently Self-Learning about Web Development. <br>
+:office_worker: I'm open a new job oppotunity. <br>
 
 ## Experience
 
