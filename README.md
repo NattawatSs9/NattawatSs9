@@ -61,21 +61,16 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+###### Top-Langs in Github (only workshop in github)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NattawatSs9&layout=compact"/>
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Where to find me</h2>
 <p><a href="https://github.com/NattawatSs9" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.facebook.com/Khawpunny/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 
-###### Top-Langs in Github (only workshop in github)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NattawatSs9&layout=compact"/>
-
-<br>
-<br>
----
-<br>
-<br>
-
-<h7>README.md</h2>
 
 <p align="right"> :hugs: Last edit: Wednesday, 18 January</p>
