@@ -18,7 +18,7 @@
 - Participating National Software Contest 2021(NSC) pass qualified round.
 - Internship at BUILK ONE GROUP as Full-stack developer.
 
-## My skills
+<h2 align="center">My skills</h2>
 
 ###### Programming Language
 
