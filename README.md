@@ -4,13 +4,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=black&size=32&center=true&vCenter=true&width=600&height=100&lines=Nattawat+Samsee;Full-Stack+Developer;Information+Technology+Student;Self-Learning;"></a>
 </p>
 
-## About me
+## About me :boy:
 
 :man_student: 4th year of information technology at KMITL. <br>
 :book: Currently Self-Learning about Web Development. <br>
 :office_worker: I'm open a new job oppotunity. <br>
 
-## Experience
+## Experience :stars:
 
 - Teacher Assistant of Object Oriented Programming Subject.
 - Developing J:Learn (Online Structural Validate-based System) as Front-end for 2nd year student in university.
@@ -18,7 +18,7 @@
 - Participating National Software Contest 2021(NSC) pass qualified round.
 - Internship at BUILK ONE GROUP as Full-stack developer.
 
-<h2 align="center">My skills</h2>
+<h2 align="center">My skills :computer: </h2>
 
 ###### Programming Language
 
