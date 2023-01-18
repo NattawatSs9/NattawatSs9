@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=black&size=32&center=true&vCenter=true&width=600&height=100&lines=Nattawat+Samsee,;Full-Stack+Developer;Information+Technology+Student;Self-Learning;"></a>
 </p>
 
-<br>
-
 ## About me
 
 :man_student: 4th year of information technology at KMITL. <br>
