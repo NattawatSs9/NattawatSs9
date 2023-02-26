@@ -8,7 +8,7 @@
 
 :man_student: 4th year of information technology at KMITL. <br>
 :book: Currently Self-Learning about Web Development. <br>
-:office_worker: I'm open a new job oppotunity. <br>
+:office_worker: Currently work at Doppio Tech <br>
 
 ## Experience :stars:
 
