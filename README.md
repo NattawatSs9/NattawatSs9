@@ -17,6 +17,8 @@
 - Developing Web scraping as Front-end for side project.
 - Participating National Software Contest 2021(NSC) pass qualified round.
 - Internship at BUILK ONE GROUP as Full-stack developer.
+- Full stack developer at Doppio Tech co., ltd.
+- Software developer at The Gang Technology co., ltd.
 
 <h2 align="center">My skills :computer: </h2>
 
